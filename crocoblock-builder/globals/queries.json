@@ -1,1 +1,1 @@
-[]
+[{"args":[{"name":"Me","surname":"Yes"},{"name":"He","surname":"They"}],"dynamic_args":null,"name":"Json Query","query_uid":"qry_62304647a0cb47c28d76","settings":{"cache_enabled":true,"description":""},"type":"json_array"},{"args":{"has_password":false,"ignore_sticky_posts":true,"orderby":[{"order":"DESC","orderby":"date"}],"paged":1,"post_status":["publish"],"post_type":["post"],"posts_per_page":10},"dynamic_args":null,"name":"Posts List","query_uid":"qry_f5981c2f26cc4cafadda","settings":{"cache_enabled":true,"description":""},"type":"posts"}]
